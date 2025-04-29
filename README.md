@@ -2,7 +2,7 @@
 This Library provides an easy way to generate/send magic packets from an ESP8266 or ESP32 to any MAC Address.<br /><br />
 This library can be used in any environment that the IPAddress, WiFiUDP & delay classes are available.
 
-## **Install**
+## **Installation**
 You can install this library in the Arduino IDE by navigating to Tools -> Library Manager and search for this library's name. Alternatively, download this repository as zip file, then in the IDE navigate to Sketch -> Include library -> Add .ZIP library<br /><br />
 
 To install the library in the PlatformIO IDE, use the library name like so:
